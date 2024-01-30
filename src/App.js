@@ -14,6 +14,7 @@ import Fourthapi from './apitask/fourth';
 import Fifthapi from './apitask/five';
 import Sixthapi from './apitask/sixth';
 import Sevenapi from './apitask/seven';
+import Weather from './weather/weather';
 
 
 const App = () => {
